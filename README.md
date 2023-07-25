@@ -24,3 +24,4 @@ According to the law of large numbers, if a large number of six-sided dice are r
 ## What have we used in this Study?
 
 -- To obtain the data in the values.csv file, the equal.mq4 expert, which I wrote using MQL4, the programming language written for the Metatrader4 platform, was used.
+-- We used the python libraries pandas and matplotlib to visualize the data in the .csv file.
