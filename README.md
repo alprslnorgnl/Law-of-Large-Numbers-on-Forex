@@ -21,4 +21,6 @@ For example, a single roll of a fair, six-sided die produces one of the numbers 
 
 According to the law of large numbers, if a large number of six-sided dice are rolled, the average of their values (sometimes called the sample mean) will approach 3.5, with the precision increasing as more dice are rolled. 
 
+## What have we used in this Study?
+
 -- To obtain the data in the values.csv file, the equal.mq4 expert, which I wrote using MQL4, the programming language written for the Metatrader4 platform, was used.
