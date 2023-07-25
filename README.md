@@ -35,7 +35,7 @@ According to the law of large numbers, if a large number of six-sided dice are r
 
 ** Our expectation is that the expected ratio of Buy and Sell trades is 50%.
 
-![alternatif metin](https://i.ibb.co/g3YJVK0/Figure-1.png)
+![alternatif metin](https://i.ibb.co/g3YJVK0/Figure-1.png)     ![alternatif metin](https://i.ibb.co/82tBXTJ/Figure-2.png)
 
 
 ** As you can see in the picture, at the end of the 136th day, the ratio of buy and sell trades is equal to 50.00 and 50.00.
