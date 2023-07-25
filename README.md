@@ -30,8 +30,8 @@ According to the law of large numbers, if a large number of six-sided dice are r
 
 ## Study results
 
-** For the purpose of the study, column 1 of the .csv file shows the percentage of buy transactions from the start date until 15.30 every day, column 2 shows the percentage of sell transactions. 
+** For the purpose of the study, column 1 of the .csv file shows the percentage of buy trades and column 2 shows the percentage of sell trades from the start date at 15.30 every day until that time. 
 
-** Our expectation is that the expected ratio of Buy and Sell transactions is 50%.
+** Our expectation is that the expected ratio of Buy and Sell trades is 50%.
 
 ** As you can see in the picture, at the end of the 136th day, the ratio of buy and sell trades is equal to 50.00 and 50.00.
