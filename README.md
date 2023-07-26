@@ -1,5 +1,5 @@
 # Law of Large Numbers on Forex
-It is a study in which I try to prove the law of large numbers, one of the basic principles of probability in the forex market.
+It is a study in which I try to prove the law of large numbers, one of the fundamental principles of probability in the forex market.
 
 ## What is Law of Large Numbers?
 The Law of Large Numbers is a fundamental principle in probability and statistics that describes the behavior of the average of a large number of independent, identically distributed random variables. In simpler terms, it states that as the sample size increases, the average of the sample will tend to get closer to the expected value or true population mean.
